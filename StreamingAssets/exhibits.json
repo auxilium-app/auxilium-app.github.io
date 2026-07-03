@@ -4,145 +4,177 @@
       "ExhibitID": "BLACK_BEAR",
       "HeaderImage": "black_bear",
       "SubjectTitle": "Black Bear",
+      "Subtitle": "",
       "SubjectInfo": "The American black bear is native to North America.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "TIGER",
       "HeaderImage": "tiger",
       "SubjectTitle": "Tiger",
+      "Subtitle": "",
       "SubjectInfo": "The tiger is the largest living cat species.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "DRAGON",
       "HeaderImage": "dragon",
       "SubjectTitle": "Dragon",
+      "Subtitle": "",
       "SubjectInfo": "Dracaris!!!!!.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "PAINTING",
       "HeaderImage": "painting",
       "SubjectTitle": "Painting",
+      "Subtitle": "",
       "SubjectInfo": "This a test info for a painting.",
       "Narration": "",
       "VideoURL": "Videos/test_video_portrait.mp4",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "EMMA",
       "HeaderImage": "emma",
       "SubjectTitle": "My Baby Emma",
+      "Subtitle": "",
       "SubjectInfo": "This a my daughter. I love her very much.",
       "Narration": "",
       "VideoURL": "Videos/emma_landscape.mp4",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "EMMABABY",
       "HeaderImage": "emmababy",
       "SubjectTitle": "I Love my Baby Emma",
+      "Subtitle": "",
       "SubjectInfo": "I love Emma so much. I would do anything for her.",
       "Narration": "",
       "VideoURL": "Videos/emma_new_portrait.mp4",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "LEWIS_HAMILTON",
       "HeaderImage": "lewis_hamilton",
       "SubjectTitle": "Sir Lewis Hamilton",
+      "Subtitle": "",
       "SubjectInfo": "British seven time World Champion who drives for Scuderia Ferrari.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "GEORGE_RUSSELL",
       "HeaderImage": "george_russell",
       "SubjectTitle": "George Russell",
+      "Subtitle": "",
       "SubjectInfo": "British driver for Mercedes Benz AMG Petronas. Was the team mate of Sir Lewis Hamilton from 2018 to 2024.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "LANDO_NORRIS",
       "HeaderImage": "lando_norris",
       "SubjectTitle": "Lando Norris",
+      "Subtitle": "",
       "SubjectInfo": "British driver for McClaren. Current World Champion.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "FERRARI_488",
       "HeaderImage": "ferrari_488",
       "SubjectTitle": "Ferrari 488",
+      "Subtitle": "",
       "SubjectInfo": "This is the Ferrari 488",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "UNION_JACK",
       "HeaderImage": "union_jack",
       "SubjectTitle": "Union Jack",
+      "Subtitle": "",
       "SubjectInfo": "This is the national flag of the United Kingdom.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "BLISSEY",
       "HeaderImage": "blissey",
       "SubjectTitle": "Blissey",
+      "Subtitle": "",
       "SubjectInfo": "My favorite Pokemon in the whole wide world!!!!!!!! I love Blissey!",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "MUM_A",
       "HeaderImage": "mum_a",
       "SubjectTitle": "Mum A",
+      "Subtitle": "",
       "SubjectInfo": "This is my lovely Mummy Mummy. I love her very much.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "MUM_B",
       "HeaderImage": "mum_b",
       "SubjectTitle": "Mum B",
+      "Subtitle": "",
       "SubjectInfo": "This is the second entry for Mummy Mummy. I love her so much.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "IPHONE_17",
       "HeaderImage": "iphone_17",
       "SubjectTitle": "iPhone 17",
+      "Subtitle": "",
       "SubjectInfo": "The iPhone 17 is the newest of Apple's flagship iPhone range of phones. There are the iPhone 17, iPhone 17 Pro & iPhone 17 Pro Max models.\nI have to write a lot of text to see if and where this text scrolls, so here goes.\nI hope this app is as successful as it is good. I have put a lot of work in to it and it deserves to be used by museums, zoos and art galleries all over the world. It is a real pity that I can't rely on anyone to get this out in front of the people it needs to. I hate relying on anyone. Maybe AI can do the job of worthless people as well. It can advise me as to what to do. It's doing those things without needing anyone else to do it for me. I hate that something so brilliant as this re reliant on useless people. Never rely on anyone except Mum. She is the only person who you can really rely on.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     },
     {
       "ExhibitID": "DUNE",
       "HeaderImage": "dune_image",
       "SubjectTitle": "Dune",
+      "Subtitle": "",
       "SubjectInfo": "A great film that has become easily one of my favorite files to watch over and over.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "NewField": ""
     }
   ],
   "MapLocations": [
