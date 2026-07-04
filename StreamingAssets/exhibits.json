@@ -8,7 +8,9 @@
       "SubjectInfo": "This is my lovely Mummy Mummy. I love her very much.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0,
+      "MUMMYFIELDONLY": ""
     },
     {
       "ExhibitID": "MUM_B",
@@ -18,7 +20,8 @@
       "SubjectInfo": "This is the second entry for Mummy Mummy. I love her so much.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "EMMA",
@@ -28,7 +31,10 @@
       "SubjectInfo": "This a my daughter. I love her very much.",
       "Narration": "",
       "VideoURL": "Videos/emma_landscape.mp4",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0,
+      "JUSTFOREMMA": "",
+      "MUMMYFIELDONLY": ""
     },
     {
       "ExhibitID": "EMMABABY",
@@ -38,7 +44,8 @@
       "SubjectInfo": "I love Emma so much. I would do anything for her.",
       "Narration": "",
       "VideoURL": "Videos/emma_new_portrait.mp4",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "UNION_JACK",
@@ -48,7 +55,8 @@
       "SubjectInfo": "This is the national flag of the United Kingdom.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "LEWIS_HAMILTON",
@@ -58,7 +66,8 @@
       "SubjectInfo": "British seven time World Champion who drives for Scuderia Ferrari.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "FERRARI_488",
@@ -68,7 +77,8 @@
       "SubjectInfo": "This is the Ferrari 488",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "BLACK_BEAR",
@@ -78,7 +88,8 @@
       "SubjectInfo": "The American black bear is native to North America.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "TIGER",
@@ -88,7 +99,8 @@
       "SubjectInfo": "The tiger is the largest living cat species.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "PAINTING",
@@ -98,7 +110,8 @@
       "SubjectInfo": "This a test info for a painting.",
       "Narration": "",
       "VideoURL": "Videos/test_video_portrait.mp4",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "DRAGON",
@@ -108,7 +121,8 @@
       "SubjectInfo": "Dracaris!!!!!.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "GEORGE_RUSSELL",
@@ -118,7 +132,8 @@
       "SubjectInfo": "British driver for Mercedes Benz AMG Petronas. Was the team mate of Sir Lewis Hamilton from 2018 to 2024.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "LANDO_NORRIS",
@@ -128,7 +143,8 @@
       "SubjectInfo": "British driver for McClaren. Current World Champion.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "BLISSEY",
@@ -138,7 +154,8 @@
       "SubjectInfo": "My favorite Pokemon in the whole wide world!!!!!!!! I love Blissey!",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "IPHONE_17",
@@ -148,7 +165,8 @@
       "SubjectInfo": "The iPhone 17 is the newest of Apple's flagship iPhone range of phones. There are the iPhone 17, iPhone 17 Pro & iPhone 17 Pro Max models.\nI have to write a lot of text to see if and where this text scrolls, so here goes.\nI hope this app is as successful as it is good. I have put a lot of work in to it and it deserves to be used by museums, zoos and art galleries all over the world. It is a real pity that I can't rely on anyone to get this out in front of the people it needs to. I hate relying on anyone. Maybe AI can do the job of worthless people as well. It can advise me as to what to do. It's doing those things without needing anyone else to do it for me. I hate that something so brilliant as this re reliant on useless people. Never rely on anyone except Mum. She is the only person who you can really rely on.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     },
     {
       "ExhibitID": "DUNE",
@@ -158,7 +176,8 @@
       "SubjectInfo": "A great film that has become easily one of my favorite files to watch over and over.",
       "Narration": "",
       "VideoURL": "",
-      "ARSceneName": ""
+      "ARSceneName": "",
+      "SubjectID": 0
     }
   ],
   "MapLocations": [
