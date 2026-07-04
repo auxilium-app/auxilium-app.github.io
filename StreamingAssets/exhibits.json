@@ -1,6 +1,76 @@
 {
   "Exhibits": [
     {
+      "ExhibitID": "MUM_A",
+      "HeaderImage": "mum_a",
+      "SubjectTitle": "Mum A",
+      "Subtitle": "",
+      "SubjectInfo": "This is my lovely Mummy Mummy. I love her very much.",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": ""
+    },
+    {
+      "ExhibitID": "MUM_B",
+      "HeaderImage": "mum_b",
+      "SubjectTitle": "Mum B",
+      "Subtitle": "",
+      "SubjectInfo": "This is the second entry for Mummy Mummy. I love her so much.",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": ""
+    },
+    {
+      "ExhibitID": "EMMA",
+      "HeaderImage": "emma",
+      "SubjectTitle": "My Baby Emma",
+      "Subtitle": "",
+      "SubjectInfo": "This a my daughter. I love her very much.",
+      "Narration": "",
+      "VideoURL": "Videos/emma_landscape.mp4",
+      "ARSceneName": ""
+    },
+    {
+      "ExhibitID": "EMMABABY",
+      "HeaderImage": "emmababy",
+      "SubjectTitle": "I Love my Baby Emma",
+      "Subtitle": "",
+      "SubjectInfo": "I love Emma so much. I would do anything for her.",
+      "Narration": "",
+      "VideoURL": "Videos/emma_new_portrait.mp4",
+      "ARSceneName": ""
+    },
+    {
+      "ExhibitID": "UNION_JACK",
+      "HeaderImage": "union_jack",
+      "SubjectTitle": "Union Jack",
+      "Subtitle": "",
+      "SubjectInfo": "This is the national flag of the United Kingdom.",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": ""
+    },
+    {
+      "ExhibitID": "LEWIS_HAMILTON",
+      "HeaderImage": "lewis_hamilton",
+      "SubjectTitle": "Sir Lewis Hamilton",
+      "Subtitle": "",
+      "SubjectInfo": "British seven time World Champion who drives for Scuderia Ferrari.",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": ""
+    },
+    {
+      "ExhibitID": "FERRARI_488",
+      "HeaderImage": "ferrari_488",
+      "SubjectTitle": "Ferrari 488",
+      "Subtitle": "",
+      "SubjectInfo": "This is the Ferrari 488",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": ""
+    },
+    {
       "ExhibitID": "BLACK_BEAR",
       "HeaderImage": "black_bear",
       "SubjectTitle": "Black Bear",
@@ -41,71 +111,11 @@
       "ARSceneName": ""
     },
     {
-      "ExhibitID": "EMMA",
-      "HeaderImage": "emma",
-      "SubjectTitle": "My Baby Emma",
-      "Subtitle": "",
-      "SubjectInfo": "This a my daughter. I love her very much.",
-      "Narration": "",
-      "VideoURL": "Videos/emma_landscape.mp4",
-      "ARSceneName": ""
-    },
-    {
-      "ExhibitID": "EMMABABY",
-      "HeaderImage": "emmababy",
-      "SubjectTitle": "I Love my Baby Emma",
-      "Subtitle": "",
-      "SubjectInfo": "I love Emma so much. I would do anything for her.",
-      "Narration": "",
-      "VideoURL": "Videos/emma_new_portrait.mp4",
-      "ARSceneName": ""
-    },
-    {
-      "ExhibitID": "LEWIS_HAMILTON",
-      "HeaderImage": "lewis_hamilton",
-      "SubjectTitle": "Sir Lewis Hamilton",
-      "Subtitle": "",
-      "SubjectInfo": "British seven time World Champion who drives for Scuderia Ferrari.",
-      "Narration": "",
-      "VideoURL": "",
-      "ARSceneName": ""
-    },
-    {
       "ExhibitID": "GEORGE_RUSSELL",
       "HeaderImage": "george_russell",
       "SubjectTitle": "George Russell",
       "Subtitle": "",
       "SubjectInfo": "British driver for Mercedes Benz AMG Petronas. Was the team mate of Sir Lewis Hamilton from 2018 to 2024.",
-      "Narration": "",
-      "VideoURL": "",
-      "ARSceneName": ""
-    },
-    {
-      "ExhibitID": "MUM_A",
-      "HeaderImage": "mum_a",
-      "SubjectTitle": "Mum A",
-      "Subtitle": "",
-      "SubjectInfo": "This is my lovely Mummy Mummy. I love her very much.",
-      "Narration": "",
-      "VideoURL": "",
-      "ARSceneName": ""
-    },
-    {
-      "ExhibitID": "FERRARI_488",
-      "HeaderImage": "ferrari_488",
-      "SubjectTitle": "Ferrari 488",
-      "Subtitle": "",
-      "SubjectInfo": "This is the Ferrari 488",
-      "Narration": "",
-      "VideoURL": "",
-      "ARSceneName": ""
-    },
-    {
-      "ExhibitID": "UNION_JACK",
-      "HeaderImage": "union_jack",
-      "SubjectTitle": "Union Jack",
-      "Subtitle": "",
-      "SubjectInfo": "This is the national flag of the United Kingdom.",
       "Narration": "",
       "VideoURL": "",
       "ARSceneName": ""
@@ -126,16 +136,6 @@
       "SubjectTitle": "Blissey",
       "Subtitle": "",
       "SubjectInfo": "My favorite Pokemon in the whole wide world!!!!!!!! I love Blissey!",
-      "Narration": "",
-      "VideoURL": "",
-      "ARSceneName": ""
-    },
-    {
-      "ExhibitID": "MUM_B",
-      "HeaderImage": "mum_b",
-      "SubjectTitle": "Mum B",
-      "Subtitle": "",
-      "SubjectInfo": "This is the second entry for Mummy Mummy. I love her so much.",
       "Narration": "",
       "VideoURL": "",
       "ARSceneName": ""
@@ -162,6 +162,90 @@
     }
   ],
   "MapLocations": [
+    {
+      "ID": "MUM_A",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "IconKey": "",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "MUM_B",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "IconKey": "",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "EMMA",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 3.5,
+        "y": 6.5
+      },
+      "IconKey": "emma_icon",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "EMMABABY",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 9,
+        "y": -1.5
+      },
+      "IconKey": "baby_icon",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "FERRARI_250GTO",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "IconKey": "",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "LEWIS_HAMILTON",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "IconKey": "",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "FERRARI488",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "IconKey": "",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
     {
       "ID": "BLACK_BEAR",
       "Type": "Exhibit",
@@ -211,79 +295,7 @@
       "HighlightOnSelect": true
     },
     {
-      "ID": "EMMA",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 3.5,
-        "y": 6.5
-      },
-      "IconKey": "emma_icon",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "EMMABABY",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 9,
-        "y": -1.5
-      },
-      "IconKey": "baby_icon",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "LEWIS_HAMILTON",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 0,
-        "y": 0
-      },
-      "IconKey": "",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
       "ID": "GEORGE_RUSSELL",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 0,
-        "y": 0
-      },
-      "IconKey": "",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "MUM_A",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 0,
-        "y": 0
-      },
-      "IconKey": "",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "FERRARI488",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 0,
-        "y": 0
-      },
-      "IconKey": "",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "FERRARI_250GTO",
       "Type": "Exhibit",
       "MapPosition": {
         "x": 0,
@@ -308,18 +320,6 @@
     },
     {
       "ID": "BLISSEY",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 0,
-        "y": 0
-      },
-      "IconKey": "",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "MUM_B",
       "Type": "Exhibit",
       "MapPosition": {
         "x": 0,
