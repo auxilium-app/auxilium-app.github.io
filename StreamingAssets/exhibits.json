@@ -64,12 +64,15 @@
       "ExhibitID": "LEWIS_HAMILTON",
       "SubjectTitle": "Sir Lewis Hamilton",
       "HeaderImage": "lewis_hamilton",
-      "Subtitle": "",
-      "SubjectInfo": "British seven time World Champion who drives for Scuderia Ferrari.",
+      "Subtitle": "Scuderia Ferrari - Seven time World Champion",
+      "SubjectInfo": "British seven time World Champion who drives for Scuderia Ferrari.\n\nI am a huge fan of Lewis Hamilton. Always have been. Always will be.",
       "Narration": "",
       "VideoURL": "",
       "ARSceneName": "",
-      "SubjectID": 0
+      "SubjectID": 0,
+      "MUMMYFIELDONLY": "",
+      "JUSTFOREMMA": "",
+      "JustForLando": ""
     },
     {
       "ExhibitID": "FERRARI_488",
@@ -98,11 +101,14 @@
       "SubjectTitle": "Tiger",
       "HeaderImage": "tiger",
       "Subtitle": "",
-      "SubjectInfo": "The tiger is the largest living cat species.",
+      "SubjectInfo": "The tiger is the largest living cat species.\n\nHere is some more on the tiger. Um... Just some more information. They are very beautiful creatures.",
       "Narration": "",
       "VideoURL": "",
       "ARSceneName": "",
-      "SubjectID": 0
+      "SubjectID": 0,
+      "MUMMYFIELDONLY": "",
+      "JUSTFOREMMA": "",
+      "JustForLando": ""
     },
     {
       "ExhibitID": "PAINTING",
@@ -130,12 +136,15 @@
       "ExhibitID": "GEORGE_RUSSELL",
       "SubjectTitle": "George Russell",
       "HeaderImage": "george_russell",
-      "Subtitle": "",
-      "SubjectInfo": "British driver for Mercedes Benz AMG Petronas. Was the team mate of Sir Lewis Hamilton from 2018 to 2024.",
+      "Subtitle": "Mercedez-Benz AMG Patronas",
+      "SubjectInfo": "British driver for Mercedes Benz AMG Petronas. Was the team mate of Sir Lewis Hamilton from 2018 to 2024.\n\nIf Lewis Hamilton doesn't win the World Championship, I would love it if George Russell does.",
       "Narration": "",
       "VideoURL": "",
       "ARSceneName": "",
-      "SubjectID": 0
+      "SubjectID": 0,
+      "MUMMYFIELDONLY": "",
+      "JUSTFOREMMA": "",
+      "JustForLando": ""
     },
     {
       "ExhibitID": "LANDO_NORRIS",
