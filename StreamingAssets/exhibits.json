@@ -2,8 +2,8 @@
   "Exhibits": [
     {
       "ExhibitID": "MUM_A",
-      "HeaderImage": "mum_a",
       "SubjectTitle": "Mum A",
+      "HeaderImage": "mum_a",
       "Subtitle": "",
       "SubjectInfo": "This is my lovely Mummy Mummy. I love her very much.",
       "Narration": "",
@@ -14,32 +14,34 @@
     },
     {
       "ExhibitID": "MUM_B",
-      "HeaderImage": "mum_b",
       "SubjectTitle": "Mum B",
+      "HeaderImage": "mum_b",
       "Subtitle": "",
       "SubjectInfo": "This is the second entry for Mummy Mummy. I love her so much.",
       "Narration": "",
       "VideoURL": "",
       "ARSceneName": "",
-      "SubjectID": 0
+      "SubjectID": 0,
+      "MUMMYFIELDONLY": "",
+      "JUSTFOREMMA": "Add it here too"
     },
     {
       "ExhibitID": "EMMA",
-      "HeaderImage": "emma",
       "SubjectTitle": "My Baby Emma",
+      "HeaderImage": "emma",
       "Subtitle": "",
       "SubjectInfo": "This a my daughter. I love her very much.",
       "Narration": "",
       "VideoURL": "Videos/emma_landscape.mp4",
       "ARSceneName": "",
       "SubjectID": 0,
-      "JUSTFOREMMA": "",
-      "MUMMYFIELDONLY": ""
+      "MUMMYFIELDONLY": "",
+      "JUSTFOREMMA": ""
     },
     {
       "ExhibitID": "EMMABABY",
-      "HeaderImage": "emmababy",
       "SubjectTitle": "I Love my Baby Emma",
+      "HeaderImage": "emmababy",
       "Subtitle": "",
       "SubjectInfo": "I love Emma so much. I would do anything for her.",
       "Narration": "",
@@ -49,8 +51,8 @@
     },
     {
       "ExhibitID": "UNION_JACK",
-      "HeaderImage": "union_jack",
       "SubjectTitle": "Union Jack",
+      "HeaderImage": "union_jack",
       "Subtitle": "",
       "SubjectInfo": "This is the national flag of the United Kingdom.",
       "Narration": "",
@@ -60,8 +62,8 @@
     },
     {
       "ExhibitID": "LEWIS_HAMILTON",
-      "HeaderImage": "lewis_hamilton",
       "SubjectTitle": "Sir Lewis Hamilton",
+      "HeaderImage": "lewis_hamilton",
       "Subtitle": "",
       "SubjectInfo": "British seven time World Champion who drives for Scuderia Ferrari.",
       "Narration": "",
@@ -71,8 +73,8 @@
     },
     {
       "ExhibitID": "FERRARI_488",
-      "HeaderImage": "ferrari_488",
       "SubjectTitle": "Ferrari 488",
+      "HeaderImage": "ferrari_488",
       "Subtitle": "",
       "SubjectInfo": "This is the Ferrari 488",
       "Narration": "",
@@ -82,8 +84,8 @@
     },
     {
       "ExhibitID": "BLACK_BEAR",
-      "HeaderImage": "black_bear",
       "SubjectTitle": "Black Bear",
+      "HeaderImage": "black_bear",
       "Subtitle": "",
       "SubjectInfo": "The American black bear is native to North America.",
       "Narration": "",
@@ -93,8 +95,8 @@
     },
     {
       "ExhibitID": "TIGER",
-      "HeaderImage": "tiger",
       "SubjectTitle": "Tiger",
+      "HeaderImage": "tiger",
       "Subtitle": "",
       "SubjectInfo": "The tiger is the largest living cat species.",
       "Narration": "",
@@ -104,8 +106,8 @@
     },
     {
       "ExhibitID": "PAINTING",
-      "HeaderImage": "painting",
       "SubjectTitle": "Painting",
+      "HeaderImage": "painting",
       "Subtitle": "",
       "SubjectInfo": "This a test info for a painting.",
       "Narration": "",
@@ -115,8 +117,8 @@
     },
     {
       "ExhibitID": "DRAGON",
-      "HeaderImage": "dragon",
       "SubjectTitle": "Dragon",
+      "HeaderImage": "dragon",
       "Subtitle": "",
       "SubjectInfo": "Dracaris!!!!!.",
       "Narration": "",
@@ -126,8 +128,8 @@
     },
     {
       "ExhibitID": "GEORGE_RUSSELL",
-      "HeaderImage": "george_russell",
       "SubjectTitle": "George Russell",
+      "HeaderImage": "george_russell",
       "Subtitle": "",
       "SubjectInfo": "British driver for Mercedes Benz AMG Petronas. Was the team mate of Sir Lewis Hamilton from 2018 to 2024.",
       "Narration": "",
@@ -137,8 +139,8 @@
     },
     {
       "ExhibitID": "LANDO_NORRIS",
-      "HeaderImage": "lando_norris",
       "SubjectTitle": "Lando Norris",
+      "HeaderImage": "lando_norris",
       "Subtitle": "",
       "SubjectInfo": "British driver for McClaren. Current World Champion.",
       "Narration": "",
@@ -148,8 +150,8 @@
     },
     {
       "ExhibitID": "BLISSEY",
-      "HeaderImage": "blissey",
       "SubjectTitle": "Blissey",
+      "HeaderImage": "blissey",
       "Subtitle": "",
       "SubjectInfo": "My favorite Pokemon in the whole wide world!!!!!!!! I love Blissey!",
       "Narration": "",
@@ -159,8 +161,8 @@
     },
     {
       "ExhibitID": "IPHONE_17",
-      "HeaderImage": "iphone_17",
       "SubjectTitle": "iPhone 17",
+      "HeaderImage": "iphone_17",
       "Subtitle": "",
       "SubjectInfo": "The iPhone 17 is the newest of Apple's flagship iPhone range of phones. There are the iPhone 17, iPhone 17 Pro & iPhone 17 Pro Max models.\nI have to write a lot of text to see if and where this text scrolls, so here goes.\nI hope this app is as successful as it is good. I have put a lot of work in to it and it deserves to be used by museums, zoos and art galleries all over the world. It is a real pity that I can't rely on anyone to get this out in front of the people it needs to. I hate relying on anyone. Maybe AI can do the job of worthless people as well. It can advise me as to what to do. It's doing those things without needing anyone else to do it for me. I hate that something so brilliant as this re reliant on useless people. Never rely on anyone except Mum. She is the only person who you can really rely on.",
       "Narration": "",
@@ -170,8 +172,8 @@
     },
     {
       "ExhibitID": "DUNE",
-      "HeaderImage": "dune_image",
       "SubjectTitle": "Dune",
+      "HeaderImage": "dune_image",
       "Subtitle": "",
       "SubjectInfo": "A great film that has become easily one of my favorite files to watch over and over.",
       "Narration": "",
