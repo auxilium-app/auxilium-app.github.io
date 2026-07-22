@@ -78,7 +78,10 @@
       "ARTrigger": "",
       "TriggerAction": "",
       "TriggerTarget": "",
-      "SubjectID": 0
+      "SubjectID": 0,
+      "MUMMYFIELDONLY": "",
+      "JUSTFOREMMA": "",
+      "JustForLando": ""
     },
     {
       "AssetID": "LEWIS_HAMILTON",
