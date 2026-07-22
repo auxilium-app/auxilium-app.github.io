@@ -72,16 +72,16 @@
       "HeaderImage": "union_jack",
       "Subtitle": "",
       "SubjectInfo": "ADDING DATA AND QR CODE",
-      "Narration": "",
+      "Narration": "TEST NARRATION",
       "VideoURL": "",
-      "ARSceneName": "",
+      "ARSceneName": "TEST AR SCENE NAME",
       "ARTrigger": "",
       "TriggerAction": "",
       "TriggerTarget": "",
       "SubjectID": 0,
-      "MUMMYFIELDONLY": "",
-      "JUSTFOREMMA": "",
-      "JustForLando": ""
+      "MUMMYFIELDONLY": "MUMMY",
+      "JUSTFOREMMA": "I LOVE EMMA",
+      "JustForLando": "AND FOR HERE TOO I GUESS"
     },
     {
       "AssetID": "LEWIS_HAMILTON",
