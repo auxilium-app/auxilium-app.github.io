@@ -1,125 +1,6 @@
 {
   "Exhibits": [
     {
-      "AssetID": "MUM_A",
-      "ContentID": "",
-      "SubjectTitle": "Mum A",
-      "HeaderImage": "mum_a",
-      "Subtitle": "",
-      "SubjectInfo": "This is my lovely Mummy Mummy. I love her very much.",
-      "Narration": "",
-      "VideoURL": "",
-      "ARSceneName": "",
-      "ARTrigger": "mum_a_tr.png",
-      "TriggerAction": "",
-      "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": ""
-    },
-    {
-      "AssetID": "MUM_B",
-      "ContentID": "",
-      "SubjectTitle": "Mum B",
-      "HeaderImage": "mum_b",
-      "Subtitle": "",
-      "SubjectInfo": "This is the second entry for Mummy Mummy. I love her so much.",
-      "Narration": "",
-      "VideoURL": "",
-      "ARSceneName": "",
-      "ARTrigger": "mum_b_tr.png",
-      "TriggerAction": "",
-      "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": "",
-      "JUSTFOREMMA": "Add it here too"
-    },
-    {
-      "AssetID": "EMMA",
-      "ContentID": "",
-      "SubjectTitle": "My Baby Emma",
-      "HeaderImage": "emma",
-      "Subtitle": "",
-      "SubjectInfo": "This a my daughter. I love her very much.",
-      "Narration": "",
-      "VideoURL": "Videos/emma_landscape.mp4",
-      "ARSceneName": "",
-      "ARTrigger": "emma_tr.png",
-      "TriggerAction": "",
-      "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": "",
-      "JUSTFOREMMA": ""
-    },
-    {
-      "AssetID": "EMMABABY",
-      "ContentID": "",
-      "SubjectTitle": "I Love my Baby Emma",
-      "HeaderImage": "emmababy",
-      "Subtitle": "",
-      "SubjectInfo": "I love Emma so much. I would do anything for her.",
-      "Narration": "",
-      "VideoURL": "Videos/emma_new_portrait.mp4",
-      "ARSceneName": "",
-      "ARTrigger": "emmababy_tr.png",
-      "TriggerAction": "",
-      "TriggerTarget": "",
-      "SubjectID": 0
-    },
-    {
-      "AssetID": "UNION_JACK",
-      "ContentID": "",
-      "SubjectTitle": "Union Jack",
-      "HeaderImage": "union_jack",
-      "Subtitle": "",
-      "SubjectInfo": "ADDING DATA AND QR CODE. AND SOME MORE STUFF",
-      "Narration": "TEST NARRATION",
-      "VideoURL": "",
-      "ARSceneName": "TEST AR SCENE NAME",
-      "ARTrigger": "union_jack_tr.png",
-      "TriggerAction": "",
-      "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": "MUMMY",
-      "JUSTFOREMMA": "I LOVE EMMA",
-      "JustForLando": "AND FOR HERE TOO I GUESS"
-    },
-    {
-      "AssetID": "LEWIS_HAMILTON",
-      "ContentID": "",
-      "SubjectTitle": "Sir Lewis Hamilton",
-      "HeaderImage": "lewis_hamilton",
-      "Subtitle": "Scuderia Ferrari - Seven time World Champion",
-      "SubjectInfo": "British seven time World Champion who drives for Scuderia Ferrari.\n\nI am a huge fan of Lewis Hamilton. Always have been. Always will be.",
-      "Narration": "",
-      "VideoURL": "",
-      "ARSceneName": "",
-      "ARTrigger": "lewis_hamilton_tr.png",
-      "TriggerAction": "",
-      "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": "",
-      "JUSTFOREMMA": "",
-      "JustForLando": ""
-    },
-    {
-      "AssetID": "FERRARI_488",
-      "ContentID": "",
-      "SubjectTitle": "Ferrari 488",
-      "HeaderImage": "ferrari_488",
-      "Subtitle": "",
-      "SubjectInfo": "This is the Ferrari 488",
-      "Narration": "",
-      "VideoURL": "",
-      "ARSceneName": "",
-      "ARTrigger": "",
-      "TriggerAction": "",
-      "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": "",
-      "JUSTFOREMMA": "",
-      "JustForLando": ""
-    },
-    {
       "AssetID": "BLACK_BEAR",
       "ContentID": "",
       "SubjectTitle": "Black Bear",
@@ -132,7 +13,7 @@
       "ARTrigger": "black_bear_tr.png",
       "TriggerAction": "",
       "TriggerTarget": "",
-      "SubjectID": 0
+      "SortOrder": 10
     },
     {
       "AssetID": "TIGER",
@@ -140,32 +21,14 @@
       "SubjectTitle": "Tiger",
       "HeaderImage": "tiger",
       "Subtitle": "",
-      "SubjectInfo": "The tiger is the largest living cat species.\n\nHere is some more on the tiger. Um... Just some more information. They are very beautiful creatures.",
+      "SubjectInfo": "The tiger is the largest living cat species.",
       "Narration": "",
       "VideoURL": "",
       "ARSceneName": "",
       "ARTrigger": "tiger_tr.png",
       "TriggerAction": "",
       "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": "",
-      "JUSTFOREMMA": "",
-      "JustForLando": ""
-    },
-    {
-      "AssetID": "PAINTING",
-      "ContentID": "",
-      "SubjectTitle": "Painting",
-      "HeaderImage": "painting",
-      "Subtitle": "",
-      "SubjectInfo": "This a test info for a painting.",
-      "Narration": "",
-      "VideoURL": "Videos/test_video_portrait.mp4",
-      "ARSceneName": "",
-      "ARTrigger": "painting_tr.png",
-      "TriggerAction": "",
-      "TriggerTarget": "",
-      "SubjectID": 0
+      "SortOrder": 10
     },
     {
       "AssetID": "DRAGON",
@@ -180,25 +43,82 @@
       "ARTrigger": "dragon_tr.png",
       "TriggerAction": "",
       "TriggerTarget": "",
-      "SubjectID": 0
+      "SortOrder": 10
+    },
+    {
+      "AssetID": "PAINTING",
+      "ContentID": "",
+      "SubjectTitle": "Painting",
+      "HeaderImage": "painting",
+      "Subtitle": "",
+      "SubjectInfo": "This a test info for a painting.",
+      "Narration": "",
+      "VideoURL": "Videos/test_video_portrait.mp4",
+      "ARSceneName": "",
+      "ARTrigger": "painting_tr.png",
+      "TriggerAction": "",
+      "TriggerTarget": "",
+      "SortOrder": 10
+    },
+    {
+      "AssetID": "EMMA",
+      "ContentID": "",
+      "SubjectTitle": "My Baby Emma",
+      "HeaderImage": "emma",
+      "Subtitle": "",
+      "SubjectInfo": "This a my daughter. I love her very much.",
+      "Narration": "",
+      "VideoURL": "Videos/emma_landscape.mp4",
+      "ARSceneName": "",
+      "ARTrigger": "emma_tr.png",
+      "TriggerAction": "",
+      "TriggerTarget": "",
+      "SortOrder": 10
+    },
+    {
+      "AssetID": "EMMABABY",
+      "ContentID": "",
+      "SubjectTitle": "I Love my Baby Emma",
+      "HeaderImage": "emmababy",
+      "Subtitle": "",
+      "SubjectInfo": "I love Emma so much. I would do anything for her.",
+      "Narration": "",
+      "VideoURL": "Videos/emma_new_portrait.mp4",
+      "ARSceneName": "",
+      "ARTrigger": "emmababy_tr.png",
+      "TriggerAction": "",
+      "TriggerTarget": "",
+      "SortOrder": 10
+    },
+    {
+      "AssetID": "LEWIS_HAMILTON",
+      "ContentID": "",
+      "SubjectTitle": "Sir Lewis Hamilton",
+      "HeaderImage": "lewis_hamilton",
+      "Subtitle": "",
+      "SubjectInfo": "British seven time World Champion who drives for Scuderia Ferrari.",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": "",
+      "ARTrigger": "lewis_hamilton_tr.png",
+      "TriggerAction": "",
+      "TriggerTarget": "",
+      "SortOrder": 10
     },
     {
       "AssetID": "GEORGE_RUSSELL",
       "ContentID": "",
       "SubjectTitle": "George Russell",
       "HeaderImage": "george_russell",
-      "Subtitle": "Mercedez-Benz AMG Patronas",
-      "SubjectInfo": "British driver for Mercedes Benz AMG Petronas. Was the team mate of Sir Lewis Hamilton from 2018 to 2024.\n\nIf Lewis Hamilton doesn't win the World Championship, I would love it if George Russell does.",
+      "Subtitle": "",
+      "SubjectInfo": "British driver for Mercedes Benz AMG Petronas. Was the team mate of Sir Lewis Hamilton from 2018 to 2024.",
       "Narration": "",
       "VideoURL": "",
       "ARSceneName": "",
       "ARTrigger": "george_russell_tr.png",
       "TriggerAction": "",
       "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": "",
-      "JUSTFOREMMA": "",
-      "JustForLando": ""
+      "SortOrder": 10
     },
     {
       "AssetID": "LANDO_NORRIS",
@@ -213,10 +133,37 @@
       "ARTrigger": "lando_norris_tr.png",
       "TriggerAction": "",
       "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": "",
-      "JUSTFOREMMA": "",
-      "JustForLando": ""
+      "SortOrder": 10
+    },
+    {
+      "AssetID": "FERRARI_488",
+      "ContentID": "",
+      "SubjectTitle": "Ferrari 488",
+      "HeaderImage": "ferrari_488",
+      "Subtitle": "",
+      "SubjectInfo": "This is the Ferrari 488",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": "",
+      "ARTrigger": "ferrari_488_tr.png",
+      "TriggerAction": "",
+      "TriggerTarget": "",
+      "SortOrder": 10
+    },
+    {
+      "AssetID": "UNION_JACK",
+      "ContentID": "",
+      "SubjectTitle": "Union Jack",
+      "HeaderImage": "union_jack",
+      "Subtitle": "",
+      "SubjectInfo": "This is the national flag of the United Kingdom.",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": "",
+      "ARTrigger": "union_jack_tr.png",
+      "TriggerAction": "",
+      "TriggerTarget": "",
+      "SortOrder": 10
     },
     {
       "AssetID": "BLISSEY",
@@ -231,10 +178,37 @@
       "ARTrigger": "blissey_tr.png",
       "TriggerAction": "",
       "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": "",
-      "JUSTFOREMMA": "",
-      "JustForLando": ""
+      "SortOrder": 10
+    },
+    {
+      "AssetID": "MUM_A",
+      "ContentID": "",
+      "SubjectTitle": "Mum A",
+      "HeaderImage": "mum_a",
+      "Subtitle": "",
+      "SubjectInfo": "This is my lovely Mummy Mummy. I love her very much.",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": "",
+      "ARTrigger": "mum_a_tr.png",
+      "TriggerAction": "",
+      "TriggerTarget": "",
+      "SortOrder": 10
+    },
+    {
+      "AssetID": "MUM_B",
+      "ContentID": "",
+      "SubjectTitle": "Mum B",
+      "HeaderImage": "mum_b",
+      "Subtitle": "",
+      "SubjectInfo": "This is the second entry for Mummy Mummy. I love her so much.",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": "",
+      "ARTrigger": "mum_b_tr.png",
+      "TriggerAction": "",
+      "TriggerTarget": "",
+      "SortOrder": 10
     },
     {
       "AssetID": "IPHONE_17",
@@ -249,10 +223,7 @@
       "ARTrigger": "iphone_17_tr.png",
       "TriggerAction": "",
       "TriggerTarget": "",
-      "SubjectID": 0,
-      "MUMMYFIELDONLY": "",
-      "JUSTFOREMMA": "",
-      "JustForLando": ""
+      "SortOrder": 10
     },
     {
       "AssetID": "DUNE",
@@ -267,30 +238,54 @@
       "ARTrigger": "dune_tr.png",
       "TriggerAction": "",
       "TriggerTarget": "",
-      "SubjectID": 0
+      "SortOrder": 10
     }
   ],
   "MapLocations": [
     {
-      "ID": "MUM_A",
+      "ID": "BLACK_BEAR",
       "Type": "Exhibit",
       "MapPosition": {
-        "x": 0,
-        "y": 0
+        "x": 12.5,
+        "y": -3.2
       },
-      "IconKey": "",
+      "IconKey": "bear_icon",
       "IsInteractive": true,
       "ShowOnMap": true,
       "HighlightOnSelect": true
     },
     {
-      "ID": "MUM_B",
+      "ID": "TIGER",
       "Type": "Exhibit",
       "MapPosition": {
-        "x": 0,
-        "y": 0
+        "x": -5,
+        "y": 8
       },
-      "IconKey": "",
+      "IconKey": "tiger_icon",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "DRAGON",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 6,
+        "y": 2
+      },
+      "IconKey": "dragon_icon",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "PAINTING",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": -8,
+        "y": -4
+      },
+      "IconKey": "painting_icon",
       "IsInteractive": true,
       "ShowOnMap": true,
       "HighlightOnSelect": true
@@ -320,18 +315,6 @@
       "HighlightOnSelect": true
     },
     {
-      "ID": "FERRARI_250GTO",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 0,
-        "y": 0
-      },
-      "IconKey": "",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
       "ID": "LEWIS_HAMILTON",
       "Type": "Exhibit",
       "MapPosition": {
@@ -339,66 +322,6 @@
         "y": 0
       },
       "IconKey": "",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "FERRARI488",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 0,
-        "y": 0
-      },
-      "IconKey": "",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "BLACK_BEAR",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 12.5,
-        "y": -3.2
-      },
-      "IconKey": "bear_icon",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "TIGER",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": -5,
-        "y": 8
-      },
-      "IconKey": "tiger_icon",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "PAINTING",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": -8,
-        "y": -4
-      },
-      "IconKey": "painting_icon",
-      "IsInteractive": true,
-      "ShowOnMap": true,
-      "HighlightOnSelect": true
-    },
-    {
-      "ID": "DRAGON",
-      "Type": "Exhibit",
-      "MapPosition": {
-        "x": 6,
-        "y": 2
-      },
-      "IconKey": "dragon_icon",
       "IsInteractive": true,
       "ShowOnMap": true,
       "HighlightOnSelect": true
@@ -428,7 +351,55 @@
       "HighlightOnSelect": true
     },
     {
+      "ID": "FERRARI488",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "IconKey": "",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "FERRARI_250GTO",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "IconKey": "",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
       "ID": "BLISSEY",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "IconKey": "",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "MUM_A",
+      "Type": "Exhibit",
+      "MapPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "IconKey": "",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "MUM_B",
       "Type": "Exhibit",
       "MapPosition": {
         "x": 0,
