@@ -18,10 +18,10 @@ $mailSubject = "Contact Form";
 $mailBody = "";
 
 foreach ($_POST as $k => $v) {
-  if ($k != "g-recaptcha-response") {
+  // if ($k != "g-recaptcha-response") {
     $mailBody .= "$k: $v\r\n";
   }
-}
+
 
 if (@mail($mailTo, $mailSubject, $mailBody)) {
   // ✅ Redirect to Thank You page
