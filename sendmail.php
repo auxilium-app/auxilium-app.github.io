@@ -1,16 +1,16 @@
 <?php
 ob_start(); // ensure no output sent before header
 
-// (1) Verify ReCaptcha
-$secret = "6LexO3grAAAAAFR--Z0JFh8rRzz7FGLJKIjEA4Dw";
-$response = $_POST["g-recaptcha-response"] ?? "";
-$verify = json_decode(file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=$secret&response=$response"));
+// // (1) Verify ReCaptcha
+// $secret = "6LexO3grAAAAAFR--Z0JFh8rRzz7FGLJKIjEA4Dw";
+// $response = $_POST["g-recaptcha-response"] ?? "";
+// $verify = json_decode(file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=$secret&response=$response"));
 
-if (!$verify || !$verify->success) {
-  // Fail: Redirect back to form with an error (optional)
-  header("Location: contact.html?error=captcha", true, 303);
-  exit();
-}
+// if (!$verify || !$verify->success) {
+//   // Fail: Redirect back to form with an error (optional)
+//   header("Location: contact.html?error=captcha", true, 303);
+//   exit();
+// }
 
 // (2) Send email
 $mailTo = "royw.rwave@gmail.com";
