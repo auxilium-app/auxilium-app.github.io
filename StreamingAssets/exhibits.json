@@ -15,12 +15,40 @@
       "TriggerTarget": "",
       "SubjectID": 0,
       "MUMMYFIELDONLY": ""
+    },
+    {
+      "AssetID": "",
+      "ContentID": "",
+      "SubjectTitle": "Entry Two Title",
+      "HeaderImage": "entry_two",
+      "Subtitle": "Entry Two Subtatly",
+      "SubjectInfo": "This is the new Entry for a brand new \"client\" via the Dashboard.\n\nLet's hope this works. A couple of things to iron out with the dashboard. So far so good.",
+      "Narration": "",
+      "VideoURL": "",
+      "ARSceneName": "",
+      "ARTrigger": "entry_two_tr.png",
+      "TriggerAction": "",
+      "TriggerTarget": "",
+      "SubjectID": 0,
+      "MUMMYFIELDONLY": ""
     }
   ],
   "MapLocations": [
     {
       "ID": "PLACEHOLDER",
       "Type": "Placeholder",
+      "MapPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "IconKey": "",
+      "IsInteractive": true,
+      "ShowOnMap": true,
+      "HighlightOnSelect": true
+    },
+    {
+      "ID": "ENTRY_TWO",
+      "Type": "Exhibit",
       "MapPosition": {
         "x": 0,
         "y": 0
